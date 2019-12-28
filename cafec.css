@@ -1,0 +1,51 @@
+
+body {
+    background-color: darkslategrey;
+}
+
+h1 {
+    background: linear-gradient(indianred,yellow);
+    font-family: serif;
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+
+a{
+    font-size: 30px;
+    color: white;
+    
+}
+h2 {
+    background: linear-gradient(indianred,yellow);
+    font-family: serif;
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+h3 {
+    background: linear-gradient(indianred,yellow);
+    font-family: serif;
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+#kfc{
+        font-size: 30px;
+    color: white;
+}
+#pizzahut{
+        font-size: 30px;
+    color: white;
+}
+h4 {
+    background: linear-gradient(indianred,yellow);
+    font-family: serif;
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+#dominos{
+        font-size: 30px;
+    color: white;
+}

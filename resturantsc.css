@@ -1,0 +1,65 @@
+body {
+    background-color: black
+}
+
+h1 {
+    background: linear-gradient(indianred,yellow);
+    font-family: serif;
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+
+a{
+    font-size: 30px;
+    color: white;
+    
+}
+h2 {
+    background: linear-gradient(indianred,yellow);
+    font-family: serif;
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+#aldawaar{
+    font-size: 30px;
+    color: white;
+    
+}
+h3 {
+    background: linear-gradient(indianred,yellow);
+    font-family: serif;
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+#yalumba{
+    font-size: 30px;
+    color: white;
+    
+}
+h4 {
+    background: linear-gradient(indianred,yellow);
+    font-family: serif;
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+#imperium{
+    font-size: 30px;
+    color: white;
+    
+}
+h5 {
+    background: linear-gradient(indianred,yellow);
+    font-family: serif;
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+#mazina{
+    font-size: 30px;
+    color: white;
+    
+}
